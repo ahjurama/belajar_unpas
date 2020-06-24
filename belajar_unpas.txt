@@ -1,0 +1,4 @@
+resolusi
+- file
+- shd
+- dgf
