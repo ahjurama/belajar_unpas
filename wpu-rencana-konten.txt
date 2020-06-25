@@ -4,6 +4,7 @@ rencana konten wpu
   * ES6
   * Frameworks Javascript
     ^ Vue
+    ^ React
 - Struktur data dasar
 - PHP Frameworks
   ^ Laeavel
